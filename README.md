@@ -32,8 +32,3 @@
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Contacts
-
-<a href="https://t.me/m1gn0n"><img src="https://img.shields.io/badge/m1gn0n-darkblue?style=for-the-badge&logo=telegram"/></a>
-<a href="mailto:olsapozhnikov@yandex.ru"><img src="https://img.shields.io/badge/mail-yellow?style=for-the-badge&logo=yandex"/></a>
